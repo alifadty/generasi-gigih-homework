@@ -1,8 +1,0 @@
-*{
-    box-sizing: border-box;
-}
-
-.track-item{
-    display: flex;
-    justify-content: center;
-}
