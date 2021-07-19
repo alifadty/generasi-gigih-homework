@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(29, 29, 29);
+    color: white;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .App {
+    max-width: 1440px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .App h1{
+    text-align: center;
+    margin: 20px 0;
+  }

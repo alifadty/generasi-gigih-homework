@@ -1,0 +1,9 @@
+h1 {
+    font-size: 28px;
+    margin: 15px 0;
+}
+
+h1:hover {
+    background-color: #D8BFD8;
+    cursor: pointer;
+  }
